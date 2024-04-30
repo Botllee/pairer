@@ -1,0 +1,22 @@
+{
+    "name": "CR-7",
+    "description": "CR-7 WA bot, Created by EUSEBIUS",
+    "logo": "https://telegra.ph/file/8e8c281178741cc77350c.jpg",
+    "repository": "https://github.com/Botllee/pairer",
+    "keywords": ["CR-7"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
