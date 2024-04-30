@@ -58,21 +58,21 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 *𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴 𝙱𝚁𝚄𝙷𝙷!!*
-*𝚃𝚑𝚒𝚜 𝚒𝚜 𝙺𝚎𝚒𝚝𝚑𝚝𝚎𝚌𝚑𝚒𝚗𝚏𝚘*
+*𝚃𝚑𝚒𝚜 𝚒𝚜 EUSEBIUS 𝚒𝚗𝚏𝚘*
 *☢*
 ____________________________________
 ╔════◇
-║『 𝐊𝐄𝐈𝐓𝐇 𝐌𝐃 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘』
+║『 CR-7 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘』
 ║ 
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://chat.whatsapp.com/D1Rtzv4rtiLIlR40u3IcaQ
 
 ║ 
 ╚════════════════════╝ 
- *𝐊𝐄𝐈𝐓𝐇 𝐌𝐃*
+ *CR7*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`
