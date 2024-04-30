@@ -9,11 +9,11 @@
 
 
 ## *DEPLOYMENT METHODS*
-- ***DEPLOY
+- 
+<br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Botllee/pairer' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+- 
 
-- <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Keithkeizzah/keith-pair' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
--
 - ***CREATE NEW APP AND CONNECT YOUR REPOSITORY USING GITHUB***
 - ***THEN DEPLOY THE REPO AND BOOM 💥***
 - ***DON'T FORGOT TO STAR THE REPO***
